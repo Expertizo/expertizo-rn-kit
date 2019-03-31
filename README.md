@@ -28,7 +28,7 @@ Plz, try to understand... Boilerplate is not Halwa 🍛
 
 ## Configurations
 
-> NOTE: Put all configurations/API's/ID's in their files in config folder
+> NOTE: Put all configurations/API Keys/ID's in their files in config folder
 
 - Follow Facebook config instructions [here](https://docs.expo.io/versions/latest/sdk/facebook/)
 
