@@ -1,0 +1,7 @@
+const firebaseConfig = {
+    
+}
+
+export {
+    firebaseConfig
+}

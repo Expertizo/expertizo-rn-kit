@@ -1,6 +1,7 @@
-import { androidClientId, iosClientId, androidStandaloneAppClientId } from "./google.config";
-import { APP_ID } from "./facebook.config";
-import { firebaseConfig } from "./firebase.config";
+import { androidClientId, iosClientId, androidStandaloneAppClientId } from "./google.js";
+import { APP_ID } from "./facebook.js";
+import { firebaseConfig } from "./firebase.js";
+
 
 /**
 |--------------------------------------------------
